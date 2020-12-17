@@ -1,11 +1,7 @@
-### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marimoon)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA&title=Stars,Commits)
 
-<!--
-**marimoon/marimoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
