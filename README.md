@@ -5,4 +5,4 @@
 
 
 ## About me
-
+- I have interasts with machine learning and data analysis.
