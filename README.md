@@ -6,3 +6,4 @@
 
 ## About me
 - I have interasts with machine learning and data analysis.
+- I learn the docker and kubernetes in progress.
